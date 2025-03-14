@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2",
-    "mongoose": "^8.10.2"
+    "mongoose": "^8.10.2",
+    "string-similarity": "^4.0.4"
   }
 }
